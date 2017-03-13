@@ -9,7 +9,7 @@ export class NavMenuComponent implements OnInit {
 
   buttons = [
               { id: "home", txt: "Home" }, 
-              { id: "page", txt: "Page" },     
+              { id: "page1", txt: "Page 1" },     
               { id: "about", txt: "About" },     
               { id: "contact", txt: "Contact Us" }
             ]
