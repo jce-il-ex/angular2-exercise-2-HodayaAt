@@ -13,8 +13,5 @@ export class NavItemComponent implements OnInit {
 
   ngOnInit() {
   }
-
-  myFunc() {
-    console.log('child: ' + this.item.id);
-  }
+  
 }

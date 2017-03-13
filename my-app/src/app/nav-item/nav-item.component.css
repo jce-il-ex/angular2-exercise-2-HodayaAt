@@ -1,10 +1,9 @@
-.box {
-    width: 42%;
+button {
+    width: 8%;
     padding: 2%;
     margin: 2%;
     text-align: center;
-    min-height: 100px;
-    line-height: 100px;
     background-color: #e2e2e2;
+    color: white;
     float: left;
 }
